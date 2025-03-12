@@ -1,0 +1,52 @@
+[
+  {
+    "about": "dfsfsdf",
+    "address": "100 Dufay Road",
+    "area": "sdf",
+    "baths": "4",
+    "beds": "4",
+    "city": "BRAMPTON",
+    "cityArea": "sf",
+    "community": "sdf",
+    "crossStreet": "sdf",
+    "featured": true,
+    "garages": "4",
+    "listingNo": "1212",
+    "photos": [
+      "listings/1212/360_F_93963870_VnTvQJwqzcI1VuGfS1M9CNl5osnrCuGX.jpg",
+      "listings/1212/12740.jpg",
+      "listings/1212/abstractBG.jpg",
+      "listings/1212/headshot.png"
+    ],
+    "postalCode": "L7A 4S3",
+    "price": "$2.00",
+    "propertyType": "condo",
+    "sqft": "45453",
+    "thumbnail": "listings/1212/thumbnail.jpg"
+  },
+  {
+    "about": "asdasd",
+    "address": "58 Lockheed Cres",
+    "area": "asd",
+    "baths": "23",
+    "beds": "23",
+    "city": "BRAMPTON",
+    "cityArea": "asd",
+    "community": "asd",
+    "crossStreet": "asd",
+    "featured": true,
+    "garages": "2",
+    "listingNo": "1213",
+    "photos": [
+      "listings/1213/House-at-Twilight-Background-Image-980x511.jpg",
+      "listings/1213/leftHouseHero.png",
+      "listings/1213/neighbourhood.jpg",
+      "listings/1213/precon.png"
+    ],
+    "postalCode": "L7A 3G4",
+    "price": "3434",
+    "propertyType": "Condo",
+    "sqft": "12324",
+    "thumbnail": "listings/1213/thumbnail.jpg"
+  }
+]
